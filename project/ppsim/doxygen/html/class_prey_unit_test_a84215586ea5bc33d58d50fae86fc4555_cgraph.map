@@ -1,0 +1,6 @@
+<map id="PreyUnitTest::test_is_death_killed" name="PreyUnitTest::test_is_death_killed">
+<area shape="rect" id="node2" href="$classppsim_1_1_creature.html#a7fd40c2b53fc08b8ef947420f6416a4e" title="Mark creature as killed. " alt="" coords="187,45,330,72"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_living_state.html#a2fa1d0ac731695b702436bbcbd245077" title="ppsim::LivingState\l::alive" alt="" coords="379,5,514,46"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_living_state.html#aecdaf5fee74b8d9f692dbafdff17dd98" title="ppsim::LivingState\l::killed" alt="" coords="379,70,514,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_living_state.html#af01ef021519c065e66c373e0e841dd52" title="ppsim::LivingState\l::LivingState" alt="" coords="563,38,698,79"/>
+</map>

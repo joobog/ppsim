@@ -1,0 +1,5 @@
+<map id="ppsim::MainWindow::update_plants" name="ppsim::MainWindow::update_plants">
+<area shape="rect" id="node2" href="$classppsim_1_1_main_window.html#acf72bd5fd74c1c2b0a08cbdae171fe26" title="Create a plant config object from GUI. " alt="" coords="205,38,357,79"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_plant_config.html#acdf4d61926417cb38c7f174dc2685555" title="ppsim::PlantConfig\l::set_growth_rate" alt="" coords="420,5,559,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_organism_config.html#aa5f21365d7256771122960bc2c2d6d96" title="ppsim::OrganismConfig\l::set_max_energy" alt="" coords="406,70,573,111"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="iniparser_dump_ini" name="iniparser_dump_ini">
+<area shape="rect" id="node2" href="$iniparser_8c.html#a0b5d6cdc7587e2d27a30f5cdc4a91931" title="Get number of sections in a dictionary. " alt="" coords="221,5,355,32"/>
+<area shape="rect" id="node3" href="$iniparser_8c.html#a393212be805f395bbfdeb1bafa8bb72a" title="Get name for section n in a dictionary. " alt="" coords="207,56,369,83"/>
+<area shape="rect" id="node4" href="$iniparser_8c.html#ae037bbf0b0b93119d3aef53b00b12fd4" title="Save a dictionary section to a loadable ini file. " alt="" coords="195,107,381,133"/>
+<area shape="rect" id="node5" href="$iniparser_8c.html#ab7607c8fe708cfe16b4fb1debce529fb" title="Finds out if a given entry exists in a dictionary. " alt="" coords="430,107,578,133"/>
+<area shape="rect" id="node6" href="$iniparser_8c.html#a7894f8480e1f254d4a1b4a31bdc51b46" title="Get the string associated to a key. " alt="" coords="627,107,767,133"/>
+<area shape="rect" id="node7" href="$iniparser_8c.html#a4ca8cc141abfb6c33fe74ece2eb14cc2" title="Convert a string to lowercase. " alt="" coords="843,81,901,108"/>
+<area shape="rect" id="node8" href="$dictionary_8h.html#a967311464f457bcb8150ce981ef3c6dd" title="Get a value from a dictionary. " alt="" coords="817,132,927,159"/>
+<area shape="rect" id="node9" href="$dictionary_8c.html#a7c1ef0a729e668d1e8d6a7e774feaf2e" title="Compute the hash key for a string. " alt="" coords="976,132,1099,159"/>
+</map>

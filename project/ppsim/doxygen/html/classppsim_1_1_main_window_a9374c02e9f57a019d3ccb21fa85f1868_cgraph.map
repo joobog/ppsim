@@ -1,0 +1,5 @@
+<map id="ppsim::MainWindow::on_toggle_action_graph" name="ppsim::MainWindow::on_toggle_action_graph">
+<area shape="rect" id="node2" href="$classppsim_1_1_graph.html#ae301ab4b56056c939d797dd667d7f524" title="Enable visualization of graph. " alt="" coords="230,5,383,32"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_graph.html#a1a8dedd69e96cfa4f9189de84deb06ef" title="Disable visualization of graph. " alt="" coords="229,56,384,83"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_graph.html#a35f3b9445732aeddca1484ea5ebd952a" title="Redraw population development. " alt="" coords="235,107,378,149"/>
+</map>

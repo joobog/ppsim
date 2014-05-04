@@ -1,0 +1,30 @@
+<map id="MainWindow.h" name="MainWindow.h">
+<area shape="rect" id="node3" href="$_visual_world_8h.html" title="Visualization of the abstract world. " alt="" coords="1657,80,1764,107"/>
+<area shape="rect" id="node4" href="$_abstract_world_8h.html" title="Abstract representation of the world. " alt="" coords="390,155,511,181"/>
+<area shape="rect" id="node22" href="$_plant_config_8h.html" title="Plant configuration. " alt="" coords="644,379,751,405"/>
+<area shape="rect" id="node36" href="$_graph_8h.html" title="Visualization of the graph. " alt="" coords="1749,155,1821,181"/>
+<area shape="rect" id="node39" href="$_helpers_8h.html" title="Helper functions. " alt="" coords="1939,229,2020,256"/>
+<area shape="rect" id="node40" href="$_ini_parser_8h.html" title="Wrapper to the iniparser. " alt="" coords="2096,80,2187,107"/>
+<area shape="rect" id="node47" href="$_about_window_8h.html" title="AboutWindow.h" alt="" coords="2211,80,2329,107"/>
+<area shape="rect" id="node38" href="$_cell_8h.html" title="Definition of directions. " alt="" coords="1501,155,1557,181"/>
+<area shape="rect" id="node5" href="$_field_8h.html" title="Definition of the field. " alt="" coords="1083,229,1145,256"/>
+<area shape="rect" id="node21" href="$_plant_8h.html" title="Behaviour of plants. " alt="" coords="739,304,804,331"/>
+<area shape="rect" id="node27" href="$_c2_d_vector_8h.html" title="Specialized vector. " alt="" coords="1478,229,1580,256"/>
+<area shape="rect" id="node30" href="$_lock_8h.html" title="Lock.h" alt="" coords="105,229,167,256"/>
+<area shape="rect" id="node33" href="$_barrier_8h.html" title="Barrier.h" alt="" coords="5,229,80,256"/>
+<area shape="rect" id="node34" href="$_barrier_c_p_p_8h.html" title="BarrierCPP.h" alt="" coords="317,229,421,256"/>
+<area shape="rect" id="node6" href="$_predator_8h.html" title="Predator behaviour. " alt="" coords="1031,304,1119,331"/>
+<area shape="rect" id="node18" href="$_predator_config_8h.html" title="Predator configuration. " alt="" coords="1235,379,1364,405"/>
+<area shape="rect" id="node19" href="$_prey_8h.html" title="Behaviour of preys. " alt="" coords="943,304,1005,331"/>
+<area shape="rect" id="node20" href="$_prey_config_8h.html" title="Prey configuration. " alt="" coords="1109,379,1211,405"/>
+<area shape="rect" id="node7" href="$_creature_8h.html" title="Behaviour of creatures. " alt="" coords="996,379,1084,405"/>
+<area shape="rect" id="node15" href="$_countable_8h.html" title="Thread&#45;safe counters. " alt="" coords="876,379,972,405"/>
+<area shape="rect" id="node8" href="$_organism_8h.html" title="Abstract definition of behaviour of organisms. " alt="" coords="905,453,999,480"/>
+<area shape="rect" id="node10" href="$_bounded_8h.html" title="Template class that defines lower and upper bounds for a value. " alt="" coords="1271,603,1360,629"/>
+<area shape="rect" id="node14" href="$_creature_config_8h.html" title="Creature configuration. " alt="" coords="1095,453,1224,480"/>
+<area shape="rect" id="node9" href="$_organism_config_8h.html" title="Organism configuration. " alt="" coords="885,528,1019,555"/>
+<area shape="rect" id="node16" href="$_counter_8h.html" title="Thread&#45;safe counter. " alt="" coords="716,453,797,480"/>
+<area shape="rect" id="node31" href="$_lock_base_8h.html" title="LockBase.h" alt="" coords="34,304,128,331"/>
+<area shape="rect" id="node42" href="$iniparser_8h.html" title="Parser for ini files. " alt="" coords="2201,155,2289,181"/>
+<area shape="rect" id="node45" href="$dictionary_8h.html" title="Implements a dictionary for string variables. " alt="" coords="2198,229,2292,256"/>
+</map>

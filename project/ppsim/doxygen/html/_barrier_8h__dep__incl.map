@@ -1,0 +1,16 @@
+<map id="Barrier.h" name="Barrier.h">
+<area shape="rect" id="node2" href="$_barrier_8cpp.html" title="Barrier.cpp" alt="" coords="464,80,555,107"/>
+<area shape="rect" id="node3" href="$_abstract_world_8h.html" title="Abstract representation of the world. " alt="" coords="579,80,700,107"/>
+<area shape="rect" id="node4" href="$_visual_world_8h.html" title="Visualization of the abstract world. " alt="" coords="412,155,519,181"/>
+<area shape="rect" id="node5" href="$_main_window_8h.html" title="Main Window. " alt="" coords="184,229,299,256"/>
+<area shape="rect" id="node11" href="$_v_world_unit_test_8cpp.html" title="VWorldUnitTest.cpp" alt="" coords="512,304,659,331"/>
+<area shape="rect" id="node13" href="$_a_world_unit_test_8h.html" title="AWorldUnitTest.h" alt="" coords="678,155,809,181"/>
+<area shape="rect" id="node15" href="$_abstract_world_8cpp.html" title="Abstract representation of the world. " alt="" coords="835,155,969,181"/>
+<area shape="rect" id="node10" href="$_v_world_unit_test_8h.html" title="VWorldUnitTest.h" alt="" coords="323,229,455,256"/>
+<area shape="rect" id="node12" href="$_visual_world_8cpp.html" title="Visualization of the abstract world. " alt="" coords="480,229,603,256"/>
+<area shape="rect" id="node6" href="$_main_window_8cpp.html" title="Main Window. " alt="" coords="5,304,133,331"/>
+<area shape="rect" id="node7" href="$_main_window_unit_test_8h.html" title="MainWindowUnitTest.h" alt="" coords="158,304,324,331"/>
+<area shape="rect" id="node9" href="$ppsim_8cpp.html" title="ppsim.cpp" alt="" coords="349,304,435,331"/>
+<area shape="rect" id="node8" href="$_main_window_unit_test_8cpp.html" title="MainWindowUnitTest.cpp" alt="" coords="150,379,332,405"/>
+<area shape="rect" id="node14" href="$_a_world_unit_test_8cpp.html" title="AWorldUnitTest.cpp" alt="" coords="677,229,824,256"/>
+</map>

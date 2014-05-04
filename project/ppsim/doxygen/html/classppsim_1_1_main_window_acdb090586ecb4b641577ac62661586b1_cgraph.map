@@ -1,0 +1,11 @@
+<map id="ppsim::MainWindow::on_entry_prey_satiation_consumption_focus_out_event" name="ppsim::MainWindow::on_entry_prey_satiation_consumption_focus_out_event">
+<area shape="rect" id="node2" href="$classppsim_1_1_main_window.html#a4288da77077c357ea5ab5e5bb45a94be" title="Signal handler. " alt="" coords="275,161,450,217"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_main_window.html#a545280bfa641df32bfa82a2972e97758" title="Update configuration of all preys. " alt="" coords="499,169,651,210"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_main_window.html#acdb5d8ebc324115630d4aa8f5d0aef5f" title="Create a prey config object from GUI. " alt="" coords="699,169,851,210"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_creature_config.html#a9217a4c66b5981137ca5abc54ce6bbf3" title="ppsim::CreatureConfig\l::set_birth_rate" alt="" coords="915,5,1077,46"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_creature_config.html#a81563ec347cf533df0d4b3783a7f9172" title="ppsim::CreatureConfig\l::set_energy_consumption" alt="" coords="903,70,1089,111"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_creature_config.html#ab1d3b2d2cdb53cc6adf8b938ed125382" title="ppsim::CreatureConfig\l::set_satiation_consumption" alt="" coords="899,135,1093,177"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_creature_config.html#af03ffabda3e6f8917a9ce2acb4cda888" title="ppsim::CreatureConfig\l::set_max_age" alt="" coords="915,201,1077,242"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_creature_config.html#a992a7408425f1f93b68cf323bc29aebc" title="ppsim::CreatureConfig\l::set_max_satiation" alt="" coords="915,266,1077,307"/>
+<area shape="rect" id="node10" href="$classppsim_1_1_organism_config.html#aa5f21365d7256771122960bc2c2d6d96" title="ppsim::OrganismConfig\l::set_max_energy" alt="" coords="913,331,1079,373"/>
+</map>

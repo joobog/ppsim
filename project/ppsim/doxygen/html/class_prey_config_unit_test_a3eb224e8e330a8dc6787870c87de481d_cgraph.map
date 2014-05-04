@@ -1,0 +1,5 @@
+<map id="PreyConfigUnitTest::test_limits_age" name="PreyConfigUnitTest::test_limits_age">
+<area shape="rect" id="node2" href="$classppsim_1_1_creature_config.html#af03ffabda3e6f8917a9ce2acb4cda888" title="ppsim::CreatureConfig\l::set_max_age" alt="" coords="201,5,362,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_creature_config.html#aa4e127888c9b27b7e7d96c1737e6630e" title="ppsim::CreatureConfig\l::set_age" alt="" coords="201,70,362,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_creature_config.html#aaea48a911d28c65a7652862668c80239" title="ppsim::CreatureConfig\l::get_age" alt="" coords="201,135,362,177"/>
+</map>

@@ -1,0 +1,6 @@
+24 August 2013
+   released version 1.0.2 of ppmodel
+
+     Change log:
+        -Fixed: Birth rate update fixed.
+

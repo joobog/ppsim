@@ -1,0 +1,7 @@
+<map id="iniparser_set" name="iniparser_set">
+<area shape="rect" id="node2" href="$dictionary_8h.html#aab65a95ad09062716b24a129d8529b76" title="Set a value in a dictionary. " alt="" coords="158,56,269,83"/>
+<area shape="rect" id="node6" href="$iniparser_8c.html#a4ca8cc141abfb6c33fe74ece2eb14cc2" title="Convert a string to lowercase. " alt="" coords="184,107,243,133"/>
+<area shape="rect" id="node3" href="$dictionary_8c.html#a7c1ef0a729e668d1e8d6a7e774feaf2e" title="Compute the hash key for a string. " alt="" coords="317,5,440,32"/>
+<area shape="rect" id="node4" href="$dictionary_8c.html#abb5d2699a3d48d86e91f2edb8d0ccd12" title="Duplicate a string. " alt="" coords="345,56,413,83"/>
+<area shape="rect" id="node5" href="$dictionary_8c.html#abea48800d54642631f103acd295f8798" title="mem_double" alt="" coords="328,107,429,133"/>
+</map>

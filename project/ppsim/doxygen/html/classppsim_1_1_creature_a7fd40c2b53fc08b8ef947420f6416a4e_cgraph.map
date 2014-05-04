@@ -1,0 +1,5 @@
+<map id="ppsim::Creature::kill" name="ppsim::Creature::kill">
+<area shape="rect" id="node2" href="$classppsim_1_1_living_state.html#a2fa1d0ac731695b702436bbcbd245077" title="ppsim::LivingState\l::alive" alt="" coords="198,5,333,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_living_state.html#aecdaf5fee74b8d9f692dbafdff17dd98" title="ppsim::LivingState\l::killed" alt="" coords="198,70,333,111"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_living_state.html#af01ef021519c065e66c373e0e841dd52" title="ppsim::LivingState\l::LivingState" alt="" coords="382,38,517,79"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ppsim::MainWindow::on_entry_sim_number_of_threads_focus_out_event" name="ppsim::MainWindow::on_entry_sim_number_of_threads_focus_out_event">
+<area shape="rect" id="node2" href="$classppsim_1_1_main_window.html#ab1ac2448854f4770b152b2e2ec9b5d95" title="Signal handler. Pass number of threads to abstract world. " alt="" coords="265,27,426,83"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_main_window.html#a0301dcc8166eeff44b67aba0b8427c99" title="Converts string from an entry number. " alt="" coords="475,5,627,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_helpers.html#a24eee5db0cfb6b4fa89f6b0a168b92be" title="Convert a string to integer. " alt="" coords="675,41,831,68"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ppsim::MainWindow::activate_control" name="ppsim::MainWindow::activate_control">
+<area shape="rect" id="node2" href="$classppsim_1_1_main_window.html#a55cc0c5ae7edb5e3137625e3f74ace33" title="Signal handler. Start simulation. " alt="" coords="205,56,357,112"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_main_window.html#a0301dcc8166eeff44b67aba0b8427c99" title="Converts string from an entry number. " alt="" coords="405,5,557,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_helpers.html#a24eee5db0cfb6b4fa89f6b0a168b92be" title="Convert a string to integer. " alt="" coords="606,41,762,68"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_main_window.html#aad284576222976a75eb35240450e60c8" title="Run simulation. " alt="" coords="405,122,557,163"/>
+</map>

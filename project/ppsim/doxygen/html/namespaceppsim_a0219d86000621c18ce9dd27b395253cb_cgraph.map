@@ -1,0 +1,18 @@
+<map id="ppsim::set_config" name="ppsim::set_config">
+<area shape="rect" id="node2" href="$namespaceppsim.html#a8b2115b2fd498ce542f6319d6dd98093" title="ppsim::set_config" alt="" coords="217,77,348,104"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_creature_config.html#af03ffabda3e6f8917a9ce2acb4cda888" title="ppsim::CreatureConfig\l::set_max_age" alt="" coords="202,129,363,170"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_creature_config.html#ae06ae50c0a275cc8649abab52ac22480" title="ppsim::CreatureConfig\l::get_max_age" alt="" coords="202,194,363,235"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_creature_config.html#a992a7408425f1f93b68cf323bc29aebc" title="ppsim::CreatureConfig\l::set_max_satiation" alt="" coords="202,259,363,301"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_creature_config.html#aeddcd0e6b609fd2475f5b6d5663c4049" title="ppsim::CreatureConfig\l::get_max_satiation" alt="" coords="202,325,363,366"/>
+<area shape="rect" id="node10" href="$classppsim_1_1_creature_config.html#aabf3dd5dbc519c5dea9ef116b9ff422a" title="ppsim::CreatureConfig\l::set_satiation" alt="" coords="202,390,363,431"/>
+<area shape="rect" id="node11" href="$classppsim_1_1_creature_config.html#a11d3a2fae18aba72bcfe88fe310f3d91" title="ppsim::CreatureConfig\l::get_satiation" alt="" coords="202,455,363,497"/>
+<area shape="rect" id="node12" href="$classppsim_1_1_creature_config.html#ab1d3b2d2cdb53cc6adf8b938ed125382" title="ppsim::CreatureConfig\l::set_satiation_consumption" alt="" coords="185,521,380,562"/>
+<area shape="rect" id="node13" href="$classppsim_1_1_creature_config.html#a7b211fc708452545c67523518342771e" title="ppsim::CreatureConfig\l::get_satiation_consumption" alt="" coords="185,586,381,627"/>
+<area shape="rect" id="node14" href="$classppsim_1_1_creature_config.html#a81563ec347cf533df0d4b3783a7f9172" title="ppsim::CreatureConfig\l::set_energy_consumption" alt="" coords="189,651,376,693"/>
+<area shape="rect" id="node15" href="$classppsim_1_1_creature_config.html#aea967a46d4c9cca5f9e6a0b28b193b90" title="ppsim::CreatureConfig\l::get_energy_consumption" alt="" coords="189,717,376,758"/>
+<area shape="rect" id="node16" href="$classppsim_1_1_creature_config.html#a9217a4c66b5981137ca5abc54ce6bbf3" title="ppsim::CreatureConfig\l::set_birth_rate" alt="" coords="202,782,363,823"/>
+<area shape="rect" id="node17" href="$classppsim_1_1_creature_config.html#a93e7b380efbf0a07be9526a77c2667cd" title="ppsim::CreatureConfig\l::get_birth_rate" alt="" coords="202,847,363,889"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_organism_config.html#aa5f21365d7256771122960bc2c2d6d96" title="ppsim::OrganismConfig\l::set_max_energy" alt="" coords="430,5,597,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_organism_config.html#ab3df4defefbc2ca356665caf5bf440a6" title="ppsim::OrganismConfig\l::set_energy" alt="" coords="430,70,597,111"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_plant_config.html#acdf4d61926417cb38c7f174dc2685555" title="ppsim::PlantConfig\l::set_growth_rate" alt="" coords="444,135,583,177"/>
+</map>

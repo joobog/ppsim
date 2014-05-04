@@ -1,0 +1,6 @@
+<map id="ppsim::VisualWorld::get_width" name="ppsim::VisualWorld::get_width">
+<area shape="rect" id="node2" href="$classppsim_1_1_abstract_world.html#a992c720df8b2ddfc8b211a9ceceab5f6" title="Getter. " alt="" coords="197,5,350,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_abstract_world.html#afb25c68406409867e33610a5c0535b95" title="Getter. " alt="" coords="197,70,350,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_cell.html#a7d207c5f876304347ae22919c0836aa2" title="Getter. Get the center of the cell. " alt="" coords="192,136,355,163"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_cell.html#acfe2cfa183727b05e6b97ed944495696" title="Getter. " alt="" coords="196,187,351,229"/>
+</map>

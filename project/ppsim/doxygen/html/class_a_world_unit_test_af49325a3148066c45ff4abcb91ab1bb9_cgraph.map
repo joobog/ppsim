@@ -1,0 +1,12 @@
+<map id="AWorldUnitTest::test_set_config" name="AWorldUnitTest::test_set_config">
+<area shape="rect" id="node2" href="$classppsim_1_1_abstract_world.html#a1b41074bccabb642f8e8567b8a41a59d" title="Setter. " alt="" coords="227,5,381,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_abstract_world.html#abbd20c51e2b6e5615c6ac9092134453b" title="Getter. " alt="" coords="227,70,381,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_organism_config.html#a67e27138e77964c13c785d6294584304" title="ppsim::OrganismConfig\l::get_max_energy" alt="" coords="221,135,387,177"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_plant_config.html#a0ee1a0e6971452cda2ea625c6a4d1e38" title="ppsim::PlantConfig\l::get_growth_rate" alt="" coords="235,201,373,242"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_abstract_world.html#a385c640f04d877bc67e75977026f070c" title="Getter. " alt="" coords="227,266,381,307"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_creature_config.html#aea967a46d4c9cca5f9e6a0b28b193b90" title="ppsim::CreatureConfig\l::get_energy_consumption" alt="" coords="211,331,397,373"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_creature_config.html#aeddcd0e6b609fd2475f5b6d5663c4049" title="ppsim::CreatureConfig\l::get_max_satiation" alt="" coords="223,397,385,438"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_creature_config.html#a7b211fc708452545c67523518342771e" title="ppsim::CreatureConfig\l::get_satiation_consumption" alt="" coords="206,462,402,503"/>
+<area shape="rect" id="node10" href="$classppsim_1_1_creature_config.html#a93e7b380efbf0a07be9526a77c2667cd" title="ppsim::CreatureConfig\l::get_birth_rate" alt="" coords="223,527,385,569"/>
+<area shape="rect" id="node11" href="$classppsim_1_1_abstract_world.html#a2ccd807e41724e4ada25ad5ee5f6fd1c" title="Getter. " alt="" coords="227,593,381,634"/>
+</map>

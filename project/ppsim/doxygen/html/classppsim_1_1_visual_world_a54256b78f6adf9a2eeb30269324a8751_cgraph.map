@@ -1,0 +1,10 @@
+<map id="ppsim::VisualWorld::set_cell_outer_radius" name="ppsim::VisualWorld::set_cell_outer_radius">
+<area shape="rect" id="node2" href="$classppsim_1_1_cell.html#aed1392b4fdd19d308b924450cc809e32" title="ppsim::Cell::set_outer\l_radius" alt="" coords="216,5,371,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_cell.html#a634eb1eeff2eb21f54f2e6da4b7d8e92" title="Recalculate coordinates on the cell, when radius changes. " alt="" coords="227,70,360,111"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_cell.html#acfe2cfa183727b05e6b97ed944495696" title="ppsim::Cell::get_inner\l_radius" alt="" coords="216,135,371,177"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_c2_d_vector.html#ab4553afac0fb3a89437b84074394dd9b" title="ppsim::C2DVector::set\l_point" alt="" coords="419,38,578,79"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_cell.html#ab4bd96b9e88b4f149a28c98164ea0147" title="Computer the corners of the cell. " alt="" coords="425,103,573,145"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_c2_d_vector.html#aeb17328ada9d8fba5ee0be794519e2b0" title="ppsim::C2DVector::mirror_h" alt="" coords="634,60,827,87"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_c2_d_vector.html#a0ecf007aa8f5581384b56639636d2874" title="ppsim::C2DVector::mirror_v" alt="" coords="635,111,827,137"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_c2_d_vector.html#a5b3fbf3e8621a30a26aee5aac6d0a4f4" title="ppsim::C2DVector::mirror_h_v" alt="" coords="627,161,835,188"/>
+</map>

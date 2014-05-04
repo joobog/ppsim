@@ -1,0 +1,8 @@
+<map id="PreyUnitTest::test_scale_config" name="PreyUnitTest::test_scale_config">
+<area shape="rect" id="node2" href="$namespaceppsim.html#a8b2115b2fd498ce542f6319d6dd98093" title="ppsim::set_config" alt="" coords="187,85,317,112"/>
+<area shape="rect" id="node6" href="$namespaceppsim.html#ad32601d14a32cfd5c48000c581914424" title="ppsim::scale" alt="" coords="203,143,301,169"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_organism_config.html#aa5f21365d7256771122960bc2c2d6d96" title="ppsim::OrganismConfig\l::set_max_energy" alt="" coords="366,5,533,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_organism_config.html#ab3df4defefbc2ca356665caf5bf440a6" title="ppsim::OrganismConfig\l::set_energy" alt="" coords="366,70,533,111"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_plant_config.html#acdf4d61926417cb38c7f174dc2685555" title="ppsim::PlantConfig\l::set_growth_rate" alt="" coords="380,135,519,177"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_plant_config.html#a0ee1a0e6971452cda2ea625c6a4d1e38" title="ppsim::PlantConfig\l::get_growth_rate" alt="" coords="380,201,519,242"/>
+</map>

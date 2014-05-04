@@ -1,0 +1,12 @@
+<map id="ppsim::MainWindow::on_toggle_action_world" name="ppsim::MainWindow::on_toggle_action_world">
+<area shape="rect" id="node2" href="$classppsim_1_1_visual_world.html#a50d7b229d65a4242a70e42822e501288" title="Enable visualization. " alt="" coords="227,5,365,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_visual_world.html#ae2bd5b354fcba28c26158ad9739c1679" title="Disable visualization. " alt="" coords="227,70,365,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_visual_world.html#a87596369a2fec905930e8914df458a6a" title="Redraw invalidated rectangle. " alt="" coords="227,135,365,177"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_visual_world.html#a1784131bf1b5534649da703c470b62f1" title="Get width of visiual world in dots. " alt="" coords="413,167,552,209"/>
+<area shape="rect" id="node10" href="$classppsim_1_1_visual_world.html#a5d60ee9f59c932f728b24be727ae0c53" title="Get height of visual world in dots. " alt="" coords="413,102,552,143"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_abstract_world.html#a992c720df8b2ddfc8b211a9ceceab5f6" title="Getter. " alt="" coords="605,73,758,114"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_abstract_world.html#afb25c68406409867e33610a5c0535b95" title="Getter. " alt="" coords="605,138,758,179"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_cell.html#a7d207c5f876304347ae22919c0836aa2" title="Getter. Get the center of the cell. " alt="" coords="600,204,763,231"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_cell.html#acfe2cfa183727b05e6b97ed944495696" title="Getter. " alt="" coords="604,255,759,297"/>
+<area shape="rect" id="node11" href="$classppsim_1_1_cell.html#a37429c2ce13055107a2474d7eca80f09" title="Getter. " alt="" coords="604,7,759,49"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ppsim::MainWindow::compute_visual_area" name="ppsim::MainWindow::compute_visual_area">
+<area shape="rect" id="node2" href="$classppsim_1_1_visual_world.html#a194ddd743611c499b55eb687bd6a0dc8" title="Computes the area on the hex grid, that will be visible on the screen. " alt="" coords="209,50,370,91"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_visual_world.html#a289762a1247b7b6e6ccb16bee079788f" title="Convert area from drawing area to area on the hex grid. " alt="" coords="419,50,578,91"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_abstract_world.html#a992c720df8b2ddfc8b211a9ceceab5f6" title="Getter. " alt="" coords="814,5,967,46"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_abstract_world.html#afb25c68406409867e33610a5c0535b95" title="Getter. " alt="" coords="814,83,967,125"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_visual_world.html#a26ff07949368fa91627d8ee49476f58a" title="Convert a point from drawing area to position in hex grid. " alt="" coords="627,50,765,91"/>
+</map>

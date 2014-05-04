@@ -1,0 +1,5 @@
+<map id="PreyConfigUnitTest::test_set_value_satiation" name="PreyConfigUnitTest::test_set_value_satiation">
+<area shape="rect" id="node2" href="$classppsim_1_1_creature_config.html#a992a7408425f1f93b68cf323bc29aebc" title="ppsim::CreatureConfig\l::set_max_satiation" alt="" coords="235,5,397,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_creature_config.html#aabf3dd5dbc519c5dea9ef116b9ff422a" title="ppsim::CreatureConfig\l::set_satiation" alt="" coords="235,70,397,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_creature_config.html#a11d3a2fae18aba72bcfe88fe310f3d91" title="ppsim::CreatureConfig\l::get_satiation" alt="" coords="235,135,397,177"/>
+</map>

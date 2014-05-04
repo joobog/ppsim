@@ -1,0 +1,4 @@
+<map id="ppsim::VisualWorld::force_redraw" name="ppsim::VisualWorld::force_redraw">
+<area shape="rect" id="node2" href="$classppsim_1_1_visual_world.html#a1784131bf1b5534649da703c470b62f1" title="Get width of visiual world in dots. " alt="" coords="192,5,331,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_visual_world.html#a5d60ee9f59c932f728b24be727ae0c53" title="Get height of visual world in dots. " alt="" coords="192,70,331,111"/>
+</map>

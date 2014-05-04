@@ -1,0 +1,8 @@
+<map id="ppsim::operator&lt;&lt;" name="ppsim::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$classppsim_1_1_living_state.html#a2fa1d0ac731695b702436bbcbd245077" title="ppsim::LivingState\l::alive" alt="" coords="190,5,325,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_living_state.html#aa8f389a39478629a0ef151e30e62e8ab" title="ppsim::LivingState\l::aged" alt="" coords="190,70,325,111"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_living_state.html#a0dedb098b35769b0ca46772461278586" title="ppsim::LivingState\l::starved" alt="" coords="190,135,325,177"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_living_state.html#ab72e3e54322371a619f65c9da5bac220" title="ppsim::LivingState\l::underfed" alt="" coords="190,201,325,242"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_living_state.html#aecdaf5fee74b8d9f692dbafdff17dd98" title="ppsim::LivingState\l::killed" alt="" coords="190,266,325,307"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_living_state.html#af01ef021519c065e66c373e0e841dd52" title="ppsim::LivingState\l::LivingState" alt="" coords="374,135,509,177"/>
+</map>

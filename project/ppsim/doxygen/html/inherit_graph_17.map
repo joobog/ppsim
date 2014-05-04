@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classppsim_1_1_lock_base.html" title="ppsim::LockBase" alt="" coords="6,31,133,57"/>
+<area shape="rect" id="node2" href="$classppsim_1_1_barrier.html" title="ppsim::Barrier" alt="" coords="182,5,290,32"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_lock.html" title="ppsim::Lock" alt="" coords="189,56,283,83"/>
+</map>

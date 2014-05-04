@@ -1,0 +1,11 @@
+<map id="iniparser_load" name="iniparser_load">
+<area shape="rect" id="node2" href="$dictionary_8h.html#a9f584d70e3559fe6fe5f62a112bc7b17" title="Create a new dictionary object. " alt="" coords="165,5,283,32"/>
+<area shape="rect" id="node3" href="$dictionary_8h.html#a9d792f2544cf674a371663e2f32128fa" title="Delete a dictionary object. " alt="" coords="169,56,279,83"/>
+<area shape="rect" id="node4" href="$iniparser_8c.html#aa2c7e59b6fa12deb4309b2de08edac99" title="Load a single line from an INI file. " alt="" coords="171,107,277,133"/>
+<area shape="rect" id="node7" href="$dictionary_8h.html#aab65a95ad09062716b24a129d8529b76" title="Set a value in a dictionary. " alt="" coords="169,183,279,209"/>
+<area shape="rect" id="node5" href="$iniparser_8c.html#adb0e4a2ce403e0d117a6a194621db6f5" title="Remove blanks at the beginning and the end of a string. " alt="" coords="359,56,425,83"/>
+<area shape="rect" id="node6" href="$iniparser_8c.html#a4ca8cc141abfb6c33fe74ece2eb14cc2" title="Convert a string to lowercase. " alt="" coords="363,107,421,133"/>
+<area shape="rect" id="node8" href="$dictionary_8c.html#a7c1ef0a729e668d1e8d6a7e774feaf2e" title="Compute the hash key for a string. " alt="" coords="331,157,453,184"/>
+<area shape="rect" id="node9" href="$dictionary_8c.html#abb5d2699a3d48d86e91f2edb8d0ccd12" title="Duplicate a string. " alt="" coords="358,208,426,235"/>
+<area shape="rect" id="node10" href="$dictionary_8c.html#abea48800d54642631f103acd295f8798" title="mem_double" alt="" coords="341,259,443,285"/>
+</map>

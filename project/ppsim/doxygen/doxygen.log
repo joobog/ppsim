@@ -1,0 +1,91 @@
+/home/joobog/git/ppsim/project/ppsim/src/gui/MainWindow.cpp:1866: warning: Reached end of file while still inside a (nested) comment. Nesting level 2 (probable line reference: 206, 203)
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:698: warning: Reached end of file while still inside a (nested) comment. Nesting level 18 (probable line reference: 339, 334, 320, 316, 311, 300, 296, 291, 279, 276, 272, 267, 253, 249, 244, 225, 220, 215)
+/home/joobog/git/ppsim/project/ppsim/include_ut/BoundedUnitTest.h:114: warning: Reached end of file while still inside a (nested) comment. Nesting level 18 (probable line reference: )
+/home/joobog/git/ppsim/project/ppsim/src/logic/Bounded.h:363: warning: reached end of file while inside a f$ block!
+The command that should end the block seems to be missing!
+
+/home/joobog/git/ppsim/project/ppsim/src/ppsim.cpp:60: warning: Reached end of file while still inside a (nested) comment. Nesting level 4 (probable line reference: 59, 38, 33, 12)
+/home/joobog/git/ppsim/project/ppsim/include_ut/PreyUnitTest.h:39: warning: Reached end of file while still inside a (nested) comment. Nesting level 4 (probable line reference: )
+/home/joobog/git/ppsim/project/ppsim/src/gui/MainWindow.cpp:966: warning: documented symbol `void ppsim::MainWindow::on_changed_size' was not declared or defined.
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:280: warning: documented symbol `const double ppsim::VisualWorld::distance' was not declared or defined.
+/home/joobog/git/ppsim/project/ppsim/src/gui/MainWindow.cpp:1228: warning: Found unknown command `\.'
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.c:327: warning: argument 'f' of command @param is not found in the argument list of dictionary_dump(dictionary *d, FILE *out)
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.c:327: warning: The following parameters of dictionary_dump(dictionary *d, FILE *out) are not documented:
+  parameter 'out'
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.h:153: warning: argument 'f' of command @param is not found in the argument list of dictionary_dump(dictionary *d, FILE *out)
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.h:153: warning: The following parameters of dictionary_dump(dictionary *d, FILE *out) are not documented:
+  parameter 'out'
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:349: warning: argument 'threaad' of command @param is not found in the argument list of ppsim::AbstractWorld::calc_interval(long thread_id)
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:349: warning: The following parameters of ppsim::AbstractWorld::calc_interval(long thread_id) are not documented:
+  parameter 'thread_id'
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:131: warning: argument 'id' of command @param is not found in the argument list of ppsim::AbstractWorld::phase_model(long thread_id)
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:131: warning: The following parameters of ppsim::AbstractWorld::phase_model(long thread_id) are not documented:
+  parameter 'thread_id'
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:106: warning: argument 'cycles' of command @param is not found in the argument list of ppsim::AbstractWorld::run_cycle()
+/home/joobog/git/ppsim/project/ppsim/src/gui/Cell.cpp:28: warning: argument 'out_r' of command @param is not found in the argument list of ppsim::Cell::recalc_cell_points(int x, int y)
+/home/joobog/git/ppsim/project/ppsim/src/gui/Cell.cpp:53: warning: argument 'out_r' of command @param is not found in the argument list of ppsim::Cell::recalc_cell_points(TPoint center)
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:422: warning: argument 'pointer' of command @param is not found in the argument list of ppsim::Field::append_to_arrived_predators(SPPredator &&predator)
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:422: warning: The following parameters of ppsim::Field::append_to_arrived_predators(SPPredator &&predator) are not documented:
+  parameter 'predator'
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:409: warning: argument 'pointer' of command @param is not found in the argument list of ppsim::Field::append_to_arrived_preys(SPPrey &&prey)
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:409: warning: The following parameters of ppsim::Field::append_to_arrived_preys(SPPrey &&prey) are not documented:
+  parameter 'prey'
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:84: warning: argument 'pointer' of command @param is not found in the argument list of ppsim::Field::get_plant()
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:108: warning: argument 'return' of command @param is not found in the argument list of ppsim::Field::get_predators()
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:95: warning: argument 'return' of command @param is not found in the argument list of ppsim::Field::get_preys()
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:51: warning: The following parameters of ppsim::Graph::append(const size_t preys_total, const size_t preys_aged, const size_t preys_killed, const size_t preys_starved, const size_t preys_underfed, const size_t preds_total, const size_t preds_aged, const size_t preds_killed, const size_t preds_starved, const size_t preds_underfed) are not documented:
+  parameter 'preys_underfed'
+  parameter 'preds_total'
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:243: warning: argument 'end' of command @param is not found in the argument list of ppsim::Graph::find_max(TValues &values, TValue start, TValue e)
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:243: warning: The following parameters of ppsim::Graph::find_max(TValues &values, TValue start, TValue e) are not documented:
+  parameter 'e'
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:424: warning: argument 'true' of command @param is not found in the argument list of ppsim::Graph::is_enabled()
+/home/joobog/git/ppsim/project/ppsim/src/gui/MainWindow.cpp:1228: warning: Found unknown command `\.'
+warning: Call graph for 'ppsim::MainWindow::MainWindow' not generated, too many nodes. Consider increasing DOT_GRAPH_MAX_NODES.
+/home/joobog/git/ppsim/project/ppsim/src/gui/MainWindow.cpp:1228: warning: Found unknown command `\.'
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:183: warning: argument 'scale' of command @param is not found in the argument list of ppsim::VisualWorld::compute_visual_area(int visible_x, int visible_y, double scale_value_x, double scale_value_y, double scale_upper_x, double scale_upper_y)
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:183: warning: argument 'upper_y' of command @param is not found in the argument list of ppsim::VisualWorld::compute_visual_area(int visible_x, int visible_y, double scale_value_x, double scale_value_y, double scale_upper_x, double scale_upper_y)
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:183: warning: The following parameters of ppsim::VisualWorld::compute_visual_area(int visible_x, int visible_y, double scale_value_x, double scale_value_y, double scale_upper_x, double scale_upper_y) are not documented:
+  parameter 'scale_upper_y'
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:240: warning: argument 'Point' of command @param is not found in the argument list of ppsim::VisualWorld::point_to_pos(TPoint point)
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:240: warning: The following parameters of ppsim::VisualWorld::point_to_pos(TPoint point) are not documented:
+  parameter 'point'
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:106: warning: argument 'cycles' of command @param is not found in the argument list of ppsim::AbstractWorld::run_cycle()
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:131: warning: argument 'id' of command @param is not found in the argument list of ppsim::AbstractWorld::phase_model(long thread_id)
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:131: warning: The following parameters of ppsim::AbstractWorld::phase_model(long thread_id) are not documented:
+  parameter 'thread_id'
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:349: warning: argument 'threaad' of command @param is not found in the argument list of ppsim::AbstractWorld::calc_interval(long thread_id)
+/home/joobog/git/ppsim/project/ppsim/src/world/AbstractWorld.cpp:349: warning: The following parameters of ppsim::AbstractWorld::calc_interval(long thread_id) are not documented:
+  parameter 'thread_id'
+/home/joobog/git/ppsim/project/ppsim/src/gui/Cell.cpp:28: warning: argument 'out_r' of command @param is not found in the argument list of ppsim::Cell::recalc_cell_points(int x, int y)
+/home/joobog/git/ppsim/project/ppsim/src/gui/Cell.cpp:53: warning: argument 'out_r' of command @param is not found in the argument list of ppsim::Cell::recalc_cell_points(TPoint center)
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:84: warning: argument 'pointer' of command @param is not found in the argument list of ppsim::Field::get_plant()
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:95: warning: argument 'return' of command @param is not found in the argument list of ppsim::Field::get_preys()
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:108: warning: argument 'return' of command @param is not found in the argument list of ppsim::Field::get_predators()
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:409: warning: argument 'pointer' of command @param is not found in the argument list of ppsim::Field::append_to_arrived_preys(SPPrey &&prey)
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:409: warning: The following parameters of ppsim::Field::append_to_arrived_preys(SPPrey &&prey) are not documented:
+  parameter 'prey'
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:422: warning: argument 'pointer' of command @param is not found in the argument list of ppsim::Field::append_to_arrived_predators(SPPredator &&predator)
+/home/joobog/git/ppsim/project/ppsim/src/world/Field.cpp:422: warning: The following parameters of ppsim::Field::append_to_arrived_predators(SPPredator &&predator) are not documented:
+  parameter 'predator'
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:51: warning: The following parameters of ppsim::Graph::append(const size_t preys_total, const size_t preys_aged, const size_t preys_killed, const size_t preys_starved, const size_t preys_underfed, const size_t preds_total, const size_t preds_aged, const size_t preds_killed, const size_t preds_starved, const size_t preds_underfed) are not documented:
+  parameter 'preys_underfed'
+  parameter 'preds_total'
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:243: warning: argument 'end' of command @param is not found in the argument list of ppsim::Graph::find_max(TValues &values, TValue start, TValue e)
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:243: warning: The following parameters of ppsim::Graph::find_max(TValues &values, TValue start, TValue e) are not documented:
+  parameter 'e'
+/home/joobog/git/ppsim/project/ppsim/src/gui/Graph.cpp:424: warning: argument 'true' of command @param is not found in the argument list of ppsim::Graph::is_enabled()
+/home/joobog/git/ppsim/project/ppsim/src/gui/MainWindow.h:306: warning: Found unknown command `\.'
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:183: warning: argument 'scale' of command @param is not found in the argument list of ppsim::VisualWorld::compute_visual_area(int visible_x, int visible_y, double scale_value_x, double scale_value_y, double scale_upper_x, double scale_upper_y)
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:183: warning: argument 'upper_y' of command @param is not found in the argument list of ppsim::VisualWorld::compute_visual_area(int visible_x, int visible_y, double scale_value_x, double scale_value_y, double scale_upper_x, double scale_upper_y)
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:183: warning: The following parameters of ppsim::VisualWorld::compute_visual_area(int visible_x, int visible_y, double scale_value_x, double scale_value_y, double scale_upper_x, double scale_upper_y) are not documented:
+  parameter 'scale_upper_y'
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:240: warning: argument 'Point' of command @param is not found in the argument list of ppsim::VisualWorld::point_to_pos(TPoint point)
+/home/joobog/git/ppsim/project/ppsim/src/gui/VisualWorld.cpp:240: warning: The following parameters of ppsim::VisualWorld::point_to_pos(TPoint point) are not documented:
+  parameter 'point'
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.c:327: warning: argument 'f' of command @param is not found in the argument list of dictionary_dump(dictionary *d, FILE *out)
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.c:327: warning: The following parameters of dictionary_dump(dictionary *d, FILE *out) are not documented:
+  parameter 'out'
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.h:153: warning: argument 'f' of command @param is not found in the argument list of dictionary_dump(dictionary *d, FILE *out)
+/home/joobog/git/ppsim/project/iniparser/src/dictionary.h:153: warning: The following parameters of dictionary_dump(dictionary *d, FILE *out) are not documented:
+  parameter 'out'

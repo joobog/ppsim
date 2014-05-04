@@ -1,0 +1,3 @@
+#!/bin/bash
+apt-get udpate
+apt-get install pkg-config libboost-dev libcppunit-dev libgtkmm-3.0-dev libcairomm-1.0-dev

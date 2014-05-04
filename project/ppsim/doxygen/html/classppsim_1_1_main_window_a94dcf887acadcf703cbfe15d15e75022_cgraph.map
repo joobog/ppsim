@@ -1,0 +1,10 @@
+<map id="ppsim::MainWindow::on_entry_pred_energy_consumption_activate" name="ppsim::MainWindow::on_entry_pred_energy_consumption_activate">
+<area shape="rect" id="node2" href="$classppsim_1_1_main_window.html#a8579872fc33604e42a64f0a1b433b88e" title="Update configuration of all predators. " alt="" coords="221,169,373,210"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_main_window.html#a5e2c8db33cad1cb169299f54561b5287" title="Signal handler. " alt="" coords="421,169,592,210"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_creature_config.html#a9217a4c66b5981137ca5abc54ce6bbf3" title="ppsim::CreatureConfig\l::set_birth_rate" alt="" coords="657,5,818,46"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_creature_config.html#a81563ec347cf533df0d4b3783a7f9172" title="ppsim::CreatureConfig\l::set_energy_consumption" alt="" coords="644,70,831,111"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_creature_config.html#ab1d3b2d2cdb53cc6adf8b938ed125382" title="ppsim::CreatureConfig\l::set_satiation_consumption" alt="" coords="640,135,835,177"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_creature_config.html#af03ffabda3e6f8917a9ce2acb4cda888" title="ppsim::CreatureConfig\l::set_max_age" alt="" coords="657,201,818,242"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_creature_config.html#a992a7408425f1f93b68cf323bc29aebc" title="ppsim::CreatureConfig\l::set_max_satiation" alt="" coords="657,266,818,307"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_organism_config.html#aa5f21365d7256771122960bc2c2d6d96" title="ppsim::OrganismConfig\l::set_max_energy" alt="" coords="654,331,821,373"/>
+</map>

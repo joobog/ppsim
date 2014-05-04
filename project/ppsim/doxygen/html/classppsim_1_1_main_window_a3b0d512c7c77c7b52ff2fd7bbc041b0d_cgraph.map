@@ -1,0 +1,12 @@
+<map id="ppsim::MainWindow::load_settings" name="ppsim::MainWindow::load_settings">
+<area shape="rect" id="node2" href="$classppsim_1_1_ini_parser.html#a7f83b0b08d4955e1c54fb558cceb6256" title="ppsim::IniParser::get\l_string" alt="" coords="441,5,589,46"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_ini_parser.html#acfae08de3e266de7e5b3e91e8646f2ac" title="ppsim::IniParser::get_bool" alt="" coords="206,63,389,89"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_helpers.html#a24eee5db0cfb6b4fa89f6b0a168b92be" title="Convert a string to integer. " alt="" coords="219,113,375,140"/>
+<area shape="rect" id="node10" href="$classppsim_1_1_ini_parser.html#ac0ddda09d39cb8e0d3a98bf00456faad" title="ppsim::IniParser::get_int" alt="" coords="212,164,383,191"/>
+<area shape="rect" id="node3" href="$iniparser_8c.html#a7894f8480e1f254d4a1b4a31bdc51b46" title="Get the string associated to a key. " alt="" coords="641,71,781,97"/>
+<area shape="rect" id="node4" href="$iniparser_8c.html#a4ca8cc141abfb6c33fe74ece2eb14cc2" title="Convert a string to lowercase. " alt="" coords="856,45,915,72"/>
+<area shape="rect" id="node5" href="$dictionary_8h.html#a967311464f457bcb8150ce981ef3c6dd" title="Get a value from a dictionary. " alt="" coords="830,96,941,123"/>
+<area shape="rect" id="node6" href="$dictionary_8c.html#a7c1ef0a729e668d1e8d6a7e774feaf2e" title="Compute the hash key for a string. " alt="" coords="989,96,1112,123"/>
+<area shape="rect" id="node8" href="$iniparser_8c.html#aeb93c13fcbb75efaa396f53bfd73ff4d" title="Get the string associated to a key, convert to a boolean. " alt="" coords="437,71,592,97"/>
+<area shape="rect" id="node11" href="$iniparser_8c.html#a694eb1110f4200db8648820a0bb405fa" title="Get the string associated to a key, convert to an int. " alt="" coords="455,143,575,169"/>
+</map>

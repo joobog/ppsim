@@ -1,0 +1,5 @@
+<map id="iniparser_getstring" name="iniparser_getstring">
+<area shape="rect" id="node2" href="$iniparser_8c.html#a4ca8cc141abfb6c33fe74ece2eb14cc2" title="Convert a string to lowercase. " alt="" coords="221,5,280,32"/>
+<area shape="rect" id="node3" href="$dictionary_8h.html#a967311464f457bcb8150ce981ef3c6dd" title="Get a value from a dictionary. " alt="" coords="195,56,306,83"/>
+<area shape="rect" id="node4" href="$dictionary_8c.html#a7c1ef0a729e668d1e8d6a7e774feaf2e" title="Compute the hash key for a string. " alt="" coords="355,56,477,83"/>
+</map>

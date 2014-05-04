@@ -1,0 +1,19 @@
+<map id="ppsim::Creature::next_vital_state" name="ppsim::Creature::next_vital_state">
+<area shape="rect" id="node2" href="$classppsim_1_1_living_state.html#a2fa1d0ac731695b702436bbcbd245077" title="ppsim::LivingState\l::alive" alt="" coords="239,5,374,46"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_creature_config.html#aa4e127888c9b27b7e7d96c1737e6630e" title="ppsim::CreatureConfig\l::set_age" alt="" coords="226,70,387,111"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_creature_config.html#aaea48a911d28c65a7652862668c80239" title="ppsim::CreatureConfig\l::get_age" alt="" coords="226,135,387,177"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_creature_config.html#ae06ae50c0a275cc8649abab52ac22480" title="ppsim::CreatureConfig\l::get_max_age" alt="" coords="226,201,387,242"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_living_state.html#aa8f389a39478629a0ef151e30e62e8ab" title="ppsim::LivingState\l::aged" alt="" coords="239,266,374,307"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_creature_config.html#aabf3dd5dbc519c5dea9ef116b9ff422a" title="ppsim::CreatureConfig\l::set_satiation" alt="" coords="226,331,387,373"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_creature_config.html#aeabbd19f67240ee364a16c7d094230f6" title="ppsim::CreatureConfig\l::get_raw_satiation" alt="" coords="226,397,387,438"/>
+<area shape="rect" id="node10" href="$classppsim_1_1_creature_config.html#a7b211fc708452545c67523518342771e" title="ppsim::CreatureConfig\l::get_satiation_consumption" alt="" coords="209,462,405,503"/>
+<area shape="rect" id="node11" href="$classppsim_1_1_creature_config.html#a11d3a2fae18aba72bcfe88fe310f3d91" title="ppsim::CreatureConfig\l::get_satiation" alt="" coords="226,527,387,569"/>
+<area shape="rect" id="node12" href="$classppsim_1_1_living_state.html#a0dedb098b35769b0ca46772461278586" title="ppsim::LivingState\l::starved" alt="" coords="239,593,374,634"/>
+<area shape="rect" id="node13" href="$classppsim_1_1_creature_config.html#aea967a46d4c9cca5f9e6a0b28b193b90" title="ppsim::CreatureConfig\l::get_energy_consumption" alt="" coords="213,658,400,699"/>
+<area shape="rect" id="node14" href="$classppsim_1_1_creature_config.html#aeddcd0e6b609fd2475f5b6d5663c4049" title="ppsim::CreatureConfig\l::get_max_satiation" alt="" coords="226,723,387,765"/>
+<area shape="rect" id="node15" href="$classppsim_1_1_organism_config.html#ab3df4defefbc2ca356665caf5bf440a6" title="ppsim::OrganismConfig\l::set_energy" alt="" coords="223,789,390,830"/>
+<area shape="rect" id="node16" href="$classppsim_1_1_organism_config.html#ab6fc1a54ca2ed9f335edc878f88c7cb3" title="ppsim::OrganismConfig\l::get_raw_energy" alt="" coords="223,854,390,895"/>
+<area shape="rect" id="node17" href="$classppsim_1_1_organism_config.html#a813e840db0914df347049ba8319ea719" title="ppsim::OrganismConfig\l::get_energy" alt="" coords="223,919,390,961"/>
+<area shape="rect" id="node18" href="$classppsim_1_1_living_state.html#ab72e3e54322371a619f65c9da5bac220" title="ppsim::LivingState\l::underfed" alt="" coords="239,985,374,1026"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_living_state.html#af01ef021519c065e66c373e0e841dd52" title="ppsim::LivingState\l::LivingState" alt="" coords="454,430,589,471"/>
+</map>

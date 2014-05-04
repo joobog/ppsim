@@ -1,0 +1,4 @@
+<map id="ppsim::Creature::is_hungry" name="ppsim::Creature::is_hungry">
+<area shape="rect" id="node2" href="$classppsim_1_1_creature_config.html#a11d3a2fae18aba72bcfe88fe310f3d91" title="ppsim::CreatureConfig\l::get_satiation" alt="" coords="190,5,351,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_creature_config.html#aeddcd0e6b609fd2475f5b6d5663c4049" title="ppsim::CreatureConfig\l::get_max_satiation" alt="" coords="190,70,351,111"/>
+</map>

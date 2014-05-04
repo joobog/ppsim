@@ -1,0 +1,5 @@
+<map id="VWorldUnitTest::test_point_to_pos" name="VWorldUnitTest::test_point_to_pos">
+<area shape="rect" id="node2" href="$classppsim_1_1_visual_world.html#a6fba87bc5165fcd685d5dc910b2975f3" title="ppsim::VisualWorld\l::get_cell_outer_radius" alt="" coords="205,5,368,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_visual_world.html#ac564906c2b856b9021f06db6eb67e1a7" title="ppsim::VisualWorld\l::get_cell_inner_radius" alt="" coords="205,70,368,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_visual_world.html#a26ff07949368fa91627d8ee49476f58a" title="Convert a point from drawing area to position in hex grid. " alt="" coords="217,135,356,177"/>
+</map>

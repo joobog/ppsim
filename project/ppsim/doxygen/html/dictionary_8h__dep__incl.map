@@ -1,0 +1,12 @@
+<map id="dictionary.h" name="dictionary.h">
+<area shape="rect" id="node2" href="$iniparser_8h.html" title="Parser for ini files. " alt="" coords="320,80,408,107"/>
+<area shape="rect" id="node11" href="$dictionary_8c.html" title="Implements a dictionary for string variables. " alt="" coords="432,80,525,107"/>
+<area shape="rect" id="node3" href="$_ini_parser_8h.html" title="Wrapper to the iniparser. " alt="" coords="263,155,353,181"/>
+<area shape="rect" id="node10" href="$iniparser_8c.html" title="Parser for ini files. " alt="" coords="378,155,464,181"/>
+<area shape="rect" id="node4" href="$_main_window_8h.html" title="Main Window. " alt="" coords="184,229,299,256"/>
+<area shape="rect" id="node9" href="$_ini_parser_8cpp.html" title="Wrapper to the iniparser. " alt="" coords="323,229,428,256"/>
+<area shape="rect" id="node5" href="$_main_window_8cpp.html" title="Main Window. " alt="" coords="5,304,133,331"/>
+<area shape="rect" id="node6" href="$_main_window_unit_test_8h.html" title="MainWindowUnitTest.h" alt="" coords="158,304,324,331"/>
+<area shape="rect" id="node8" href="$ppsim_8cpp.html" title="ppsim.cpp" alt="" coords="349,304,435,331"/>
+<area shape="rect" id="node7" href="$_main_window_unit_test_8cpp.html" title="MainWindowUnitTest.cpp" alt="" coords="150,379,332,405"/>
+</map>

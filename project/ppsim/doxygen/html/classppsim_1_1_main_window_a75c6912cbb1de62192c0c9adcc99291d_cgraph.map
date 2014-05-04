@@ -1,0 +1,7 @@
+<map id="ppsim::MainWindow::on_entry_plant_max_energy_focus_out_event" name="ppsim::MainWindow::on_entry_plant_max_energy_focus_out_event">
+<area shape="rect" id="node2" href="$classppsim_1_1_main_window.html#a0ea4025687f88845261d4d805cbb76d9" title="Signal handler. " alt="" coords="256,31,459,87"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_main_window.html#a9be78d588c8788599f1b4ad00f4134b8" title="Pass new plant config to the simulation. " alt="" coords="507,38,659,79"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_main_window.html#acf72bd5fd74c1c2b0a08cbdae171fe26" title="Create a plant config object from GUI. " alt="" coords="707,38,859,79"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_plant_config.html#acdf4d61926417cb38c7f174dc2685555" title="ppsim::PlantConfig\l::set_growth_rate" alt="" coords="921,5,1060,46"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_organism_config.html#aa5f21365d7256771122960bc2c2d6d96" title="ppsim::OrganismConfig\l::set_max_energy" alt="" coords="907,70,1074,111"/>
+</map>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Prey Predator Simulator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="ppsim/src_ut/;ppsim/include/;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ppsim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add option="-DDEBUG" />
+					<Add option="-DTEST_MODE" />
+					<Add directory="ppsim/src/logic" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ppsim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-std=c++11" />
+					<Add option="-DNDEBUG" />
+					<Add directory="ppsim/src/logic" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="`pkg-config --cflags gtkmm-3.0 cppunit` -pthread" />
+			<Add directory="../iniparser/src" />
+			<Add directory="src_ut" />
+			<Add directory="include_ut" />
+			<Add directory="include" />
+			<Add directory="src/gui" />
+			<Add directory="src/logic" />
+			<Add directory="src/organisms" />
+			<Add directory="src/world" />
+		</Compiler>
+		<Linker>
+			<Add option="`pkg-config --libs gtkmm-3.0 cppunit`" />
+			<Add library="pthread" />
+		</Linker>
+		<ExtraCommands>
+			<Add after="../cbp2make-stl-rev147-all/bin/Release/cbp2make -in ppsim.cbp -out Makefile -unix" />
+		</ExtraCommands>
+		<Unit filename="../iniparser/src/dictionary.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../iniparser/src/dictionary.h" />
+		<Unit filename="../iniparser/src/iniparser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../iniparser/src/iniparser.h">
+			<Option virtualFolder="ppsim/src_ut/" />
+		</Unit>
+		<Unit filename="include_ut/AWorldUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/BoundedUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/CellUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/FieldUnitTest.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include_ut/MainWindowUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/OrganismConfigUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/PlantConfigUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/PreyConfigUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/PreyUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include_ut/VWorldUnitTest.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/gui/AboutWindow.cpp" />
+		<Unit filename="src/gui/AboutWindow.h" />
+		<Unit filename="src/gui/Cell.cpp" />
+		<Unit filename="src/gui/Cell.h" />
+		<Unit filename="src/gui/FilePtr.cpp" />
+		<Unit filename="src/gui/FilePtr.h" />
+		<Unit filename="src/gui/Graph.cpp" />
+		<Unit filename="src/gui/Graph.h" />
+		<Unit filename="src/gui/IniParser.cpp" />
+		<Unit filename="src/gui/IniParser.h" />
+		<Unit filename="src/gui/MainWindow.cpp" />
+		<Unit filename="src/gui/MainWindow.h" />
+		<Unit filename="src/gui/VisualWorld.cpp" />
+		<Unit filename="src/gui/VisualWorld.h" />
+		<Unit filename="src/logic/Barrier.cpp" />
+		<Unit filename="src/logic/Barrier.h" />
+		<Unit filename="src/logic/BarrierCPP.h" />
+		<Unit filename="src/logic/Bounded.h" />
+		<Unit filename="src/logic/C2DVector.h" />
+		<Unit filename="src/logic/Countable.h" />
+		<Unit filename="src/logic/Counter.h" />
+		<Unit filename="src/logic/Helpers.h" />
+		<Unit filename="src/logic/Lock.h" />
+		<Unit filename="src/logic/LockBase.h" />
+		<Unit filename="src/logic/RuntimeError.cpp" />
+		<Unit filename="src/logic/RuntimeError.h" />
+		<Unit filename="src/organisms/Creature.cpp" />
+		<Unit filename="src/organisms/Creature.h" />
+		<Unit filename="src/organisms/CreatureConfig.cpp" />
+		<Unit filename="src/organisms/CreatureConfig.h" />
+		<Unit filename="src/organisms/LivingState.cpp" />
+		<Unit filename="src/organisms/LivingState.h" />
+		<Unit filename="src/organisms/Organism.cpp" />
+		<Unit filename="src/organisms/Organism.h" />
+		<Unit filename="src/organisms/OrganismConfig.cpp" />
+		<Unit filename="src/organisms/OrganismConfig.h" />
+		<Unit filename="src/organisms/Plant.cpp" />
+		<Unit filename="src/organisms/Plant.h" />
+		<Unit filename="src/organisms/PlantConfig.cpp" />
+		<Unit filename="src/organisms/PlantConfig.h" />
+		<Unit filename="src/organisms/Predator.cpp" />
+		<Unit filename="src/organisms/Predator.h" />
+		<Unit filename="src/organisms/PredatorConfig.cpp" />
+		<Unit filename="src/organisms/PredatorConfig.h" />
+		<Unit filename="src/organisms/Prey.cpp" />
+		<Unit filename="src/organisms/Prey.h" />
+		<Unit filename="src/organisms/PreyConfig.cpp" />
+		<Unit filename="src/organisms/PreyConfig.h" />
+		<Unit filename="src/ppsim.cpp" />
+		<Unit filename="src/world/AbstractWorld.cpp" />
+		<Unit filename="src/world/AbstractWorld.h" />
+		<Unit filename="src/world/Field.cpp" />
+		<Unit filename="src/world/Field.h" />
+		<Unit filename="src_ut/AWorldUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/BoundedUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/CellUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/FieldUnitTest.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src_ut/MainWindowUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/OrganismConfigUnitTest.cpp">
+			<Option virtualFolder="ppsim/include/" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/PlantConfigUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/PreyConfigUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/PreyUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src_ut/VWorldUnitTest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="version.h" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+			<lib_finder disable_auto="1">
+				<lib name="gtkmm-3.0" />
+				<lib name="cairomm-1.0" />
+			</lib_finder>
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build extract_all="1" extract_private="1" extract_static="1" />
+				<doxyfile_warnings warn_if_undocumented="1" />
+				<doxyfile_output html_help="1" binary_toc="1" autogen_def="1" perl_mod="1" />
+				<doxyfile_dot class_diagrams="1" have_dot="1" />
+				<general />
+			</DoxyBlocks>
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10" build_times_to_increment_minor="100" />
+				<Settings autoincrement="1" date_declarations="1" use_define="0" update_manifest="0" do_auto_increment="0" ask_to_increment="0" language="C++" svn="0" svn_directory="" header_path="version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="ChangesLog.txt" />
+				<Code header_guard="VERSION_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

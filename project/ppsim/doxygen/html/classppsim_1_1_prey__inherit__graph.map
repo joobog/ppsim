@@ -1,0 +1,8 @@
+<map id="ppsim::Prey" name="ppsim::Prey">
+<area shape="rect" id="node2" href="$classppsim_1_1_prey_config.html" title="Prey configuration. " alt="" coords="18,155,152,181"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_creature_config.html" title="Creature configuration. " alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_creature.html" title="Behaviour of creatures. " alt="" coords="177,155,297,181"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_organism_config.html" title="Organism configuration. " alt="" coords="86,5,252,32"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_organism.html" title="Abstract definition of behaviour of organisms. " alt="" coords="190,80,316,107"/>
+<area shape="rect" id="node7" href="$structppsim_1_1_countable.html" title="ppsim::Countable\&lt; Prey \&gt;" alt="" coords="321,155,503,181"/>
+</map>

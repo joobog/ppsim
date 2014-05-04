@@ -1,0 +1,11 @@
+<map id="PreyConfigUnitTest::test_init" name="PreyConfigUnitTest::test_init">
+<area shape="rect" id="node2" href="$classppsim_1_1_creature_config.html#ae06ae50c0a275cc8649abab52ac22480" title="ppsim::CreatureConfig\l::get_max_age" alt="" coords="218,5,379,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_creature_config.html#aaea48a911d28c65a7652862668c80239" title="ppsim::CreatureConfig\l::get_age" alt="" coords="218,70,379,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_organism_config.html#a67e27138e77964c13c785d6294584304" title="ppsim::OrganismConfig\l::get_max_energy" alt="" coords="215,135,382,177"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_organism_config.html#a813e840db0914df347049ba8319ea719" title="ppsim::OrganismConfig\l::get_energy" alt="" coords="215,201,382,242"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_creature_config.html#aea967a46d4c9cca5f9e6a0b28b193b90" title="ppsim::CreatureConfig\l::get_energy_consumption" alt="" coords="205,266,392,307"/>
+<area shape="rect" id="node7" href="$classppsim_1_1_creature_config.html#aeddcd0e6b609fd2475f5b6d5663c4049" title="ppsim::CreatureConfig\l::get_max_satiation" alt="" coords="218,331,379,373"/>
+<area shape="rect" id="node8" href="$classppsim_1_1_creature_config.html#a11d3a2fae18aba72bcfe88fe310f3d91" title="ppsim::CreatureConfig\l::get_satiation" alt="" coords="218,397,379,438"/>
+<area shape="rect" id="node9" href="$classppsim_1_1_creature_config.html#a7b211fc708452545c67523518342771e" title="ppsim::CreatureConfig\l::get_satiation_consumption" alt="" coords="201,462,397,503"/>
+<area shape="rect" id="node10" href="$classppsim_1_1_creature_config.html#a93e7b380efbf0a07be9526a77c2667cd" title="ppsim::CreatureConfig\l::get_birth_rate" alt="" coords="218,527,379,569"/>
+</map>

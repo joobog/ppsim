@@ -1,0 +1,5 @@
+<map id="ppsim::MainWindow::on_entry_graph_vis_zoom_focus_out_event" name="ppsim::MainWindow::on_entry_graph_vis_zoom_focus_out_event">
+<area shape="rect" id="node2" href="$classppsim_1_1_main_window.html#acf9eb2acd9b7010b6f61a7fbc73b66f5" title="Signal handler. " alt="" coords="246,4,437,60"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_main_window.html#a0301dcc8166eeff44b67aba0b8427c99" title="Converts string from an entry number. " alt="" coords="485,11,637,53"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_helpers.html#a24eee5db0cfb6b4fa89f6b0a168b92be" title="Convert a string to integer. " alt="" coords="686,19,842,45"/>
+</map>

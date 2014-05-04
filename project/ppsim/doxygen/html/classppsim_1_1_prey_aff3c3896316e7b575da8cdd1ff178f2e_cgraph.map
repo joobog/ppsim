@@ -1,0 +1,7 @@
+<map id="ppsim::Prey::eat" name="ppsim::Prey::eat">
+<area shape="rect" id="node2" href="$classppsim_1_1_organism_config.html#a813e840db0914df347049ba8319ea719" title="ppsim::OrganismConfig\l::get_energy" alt="" coords="174,5,341,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_creature_config.html#aeddcd0e6b609fd2475f5b6d5663c4049" title="ppsim::CreatureConfig\l::get_max_satiation" alt="" coords="177,70,338,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_creature_config.html#a11d3a2fae18aba72bcfe88fe310f3d91" title="ppsim::CreatureConfig\l::get_satiation" alt="" coords="177,135,338,177"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_organism_config.html#ab3df4defefbc2ca356665caf5bf440a6" title="ppsim::OrganismConfig\l::set_energy" alt="" coords="174,201,341,242"/>
+<area shape="rect" id="node6" href="$classppsim_1_1_creature_config.html#aabf3dd5dbc519c5dea9ef116b9ff422a" title="ppsim::CreatureConfig\l::set_satiation" alt="" coords="177,266,338,307"/>
+</map>

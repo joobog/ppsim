@@ -1,0 +1,12 @@
+<map id="ppsim::IniParser::IniParser" name="ppsim::IniParser::IniParser">
+<area shape="rect" id="node2" href="$iniparser_8c.html#ab0be559bfb769224b3f1b75e26242a67" title="Parse an ini file and return an allocated dictionary object. " alt="" coords="240,81,352,108"/>
+<area shape="rect" id="node3" href="$dictionary_8h.html#a9f584d70e3559fe6fe5f62a112bc7b17" title="Create a new dictionary object. " alt="" coords="400,5,517,32"/>
+<area shape="rect" id="node4" href="$dictionary_8h.html#a9d792f2544cf674a371663e2f32128fa" title="Delete a dictionary object. " alt="" coords="403,56,514,83"/>
+<area shape="rect" id="node5" href="$iniparser_8c.html#aa2c7e59b6fa12deb4309b2de08edac99" title="Load a single line from an INI file. " alt="" coords="405,107,512,133"/>
+<area shape="rect" id="node8" href="$dictionary_8h.html#aab65a95ad09062716b24a129d8529b76" title="Set a value in a dictionary. " alt="" coords="403,183,514,209"/>
+<area shape="rect" id="node6" href="$iniparser_8c.html#adb0e4a2ce403e0d117a6a194621db6f5" title="Remove blanks at the beginning and the end of a string. " alt="" coords="594,56,659,83"/>
+<area shape="rect" id="node7" href="$iniparser_8c.html#a4ca8cc141abfb6c33fe74ece2eb14cc2" title="Convert a string to lowercase. " alt="" coords="597,107,656,133"/>
+<area shape="rect" id="node9" href="$dictionary_8h.html#a7c1ef0a729e668d1e8d6a7e774feaf2e" title="Compute the hash key for a string. " alt="" coords="565,157,688,184"/>
+<area shape="rect" id="node10" href="$dictionary_8c.html#abb5d2699a3d48d86e91f2edb8d0ccd12" title="Duplicate a string. " alt="" coords="593,208,661,235"/>
+<area shape="rect" id="node11" href="$dictionary_8c.html#abea48800d54642631f103acd295f8798" title="mem_double" alt="" coords="576,259,677,285"/>
+</map>

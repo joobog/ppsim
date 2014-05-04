@@ -1,0 +1,6 @@
+<map id="ppsim::set_config" name="ppsim::set_config">
+<area shape="rect" id="node2" href="$classppsim_1_1_organism_config.html#aa5f21365d7256771122960bc2c2d6d96" title="ppsim::OrganismConfig\l::set_max_energy" alt="" coords="185,5,351,46"/>
+<area shape="rect" id="node3" href="$classppsim_1_1_organism_config.html#a67e27138e77964c13c785d6294584304" title="ppsim::OrganismConfig\l::get_max_energy" alt="" coords="185,70,351,111"/>
+<area shape="rect" id="node4" href="$classppsim_1_1_organism_config.html#ab3df4defefbc2ca356665caf5bf440a6" title="ppsim::OrganismConfig\l::set_energy" alt="" coords="185,135,351,177"/>
+<area shape="rect" id="node5" href="$classppsim_1_1_organism_config.html#a813e840db0914df347049ba8319ea719" title="ppsim::OrganismConfig\l::get_energy" alt="" coords="185,201,351,242"/>
+</map>
