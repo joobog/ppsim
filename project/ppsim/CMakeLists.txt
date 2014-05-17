@@ -20,7 +20,7 @@ find_package ( Boost REQUIRED)
 
 
 if ( PKG_CONFIG_FOUND )
-	pkg_check_modules ( GTKMM gtkmm-3.0>=3.12 )
+	pkg_check_modules ( GTKMM gtkmm-3.0 )
 	pkg_check_modules ( GLIB glib-2.0 )
 	pkg_check_modules ( CAIROMM cairomm-1.0 )
 endif ( PKG_CONFIG_FOUND )

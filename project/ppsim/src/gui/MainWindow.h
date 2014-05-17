@@ -332,9 +332,11 @@ PRIVATE:
 template <typename T>
 T
 MainWindow::entry_to_value(Gtk::Entry& entry, const T min, const T max) {
-    const std::string str_value = entry.get_text();
-    const T value = atof(str_value.c_str());
-    ppsim::Bounded<T> bounded(value, min, max);
+    std::stringstream ss{entry.get_text()};
+    double value;
+		ss >> value;
+		assert(ppsim::Helpers::to_str(value)==ss.str());
+    ppsim::Bounded<T> bounded(static_cast<T>(value), min, max);
     entry.set_text(ppsim::Helpers::to_str(bounded.get_value()));
     return bounded.get_value();
 }
