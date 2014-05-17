@@ -285,8 +285,6 @@ Field::predators_eat_preys() {
  */
 void
 Field::choose_direction(std::vector<Field*> neighbors) {
-    assert(neighbors.size() == 6);
-
 	using std::vector;
 
     vector<Field*> best_fields;
